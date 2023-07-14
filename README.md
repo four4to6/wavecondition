@@ -4,6 +4,8 @@
 
 このデータは「[気象庁 波浪実況・予想図](https://www.data.jma.go.jp/waveinf/tile/jp/index.html "気象庁 波浪実況・予想図")」に使用されている
 
+「緯度経度 (ID ll01) GeoJSON (ll01.geojson)」、
+
 「緯度経度 (ID ll05) GeoJSON (ll05.geojson)」、
 
 「緯度経度 (ID ll10) GeoJSON (ll10.geojson)」、
